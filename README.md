@@ -7,7 +7,7 @@ Công cụ tự động hóa triển khai và quản lý chuyển tiếp cổng 
 Đăng nhập vào VPS với quyền `root` và chạy duy nhất lệnh sau để tự động cài đặt tất cả:
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/Vietnamvpn/realm-entry-node/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Vivancang592/realm-entry-vvc/main/install.sh)
 ```
 
 ## Sử dụng

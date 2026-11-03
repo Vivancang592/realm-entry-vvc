@@ -1,6 +1,6 @@
 #!/bin/bash
 
-REPO_URL="https://github.com/Vietnamvpn/realm-entry-node.git"
+REPO_URL="https://github.com/Vivancang592/realm-entry-vvc.git"
 INSTALL_DIR="/opt/realm-entry-node"
 
 RED='\033[0;31m'
